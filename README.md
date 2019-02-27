@@ -18,7 +18,3 @@ The third video in this series goes through creating a List app. It reminded me 
 
 ![alt text](https://github.com/umbrafox/Tanuki/blob/master/app/src/main/res/drawable/peach.png "Logo Title Text 1")![alt text](https://github.com/umbrafox/Tanuki/blob/master/app/src/main/res/drawable/pear.png "Logo Title Text 1")![alt text](https://github.com/umbrafox/Tanuki/blob/master/app/src/main/res/drawable/cherry.png "Logo Title Text 1")
 ![alt text](https://github.com/umbrafox/Tanuki/blob/master/app/src/main/res/drawable/orange.png "Logo Title Text 1")
-
-### /////// C U R R E N T S T A G E ///////
-
-<img src="https://github.com/umbrafox/Tanuki/blob/master/documentation/listApp.gif" alt="drawing" width="400"/>

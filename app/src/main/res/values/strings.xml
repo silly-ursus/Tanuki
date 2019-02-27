@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ListAPP</string>
+    <string-array name="items">
+        <item>peach</item>
+        <item>pear</item>
+        <item>apple</item>
+        <item>orange</item>
+        <item>cherry</item>
+    </string-array>
+    <string-array name="prices">
+        <item>200 bells</item>
+        <item>300 bells</item>
+        <item>300 bells</item>
+        <item>300 bells</item>
+        <item>400 bells</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Starting fruit - you can find them anywhere!</item>
+        <item>Smells green</item>
+        <item>Ringo desu.</item>
+        <item>It looks just like it sounds.</item>
+        <item>Makes a great pie.</item>
+    </string-array>
+</resources>

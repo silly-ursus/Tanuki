@@ -10,7 +10,7 @@ An exploration of Android development.
 * [Android Studio](https://developer.android.com/studio/index.html#downloads)
 * GIMP
 
-## Day One
+## Initialization
 
 As with Ceruleans, I went with this video series to get started: https://www.youtube.com/watch?v=bu5Y3uZ6LLM
 

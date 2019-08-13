@@ -12,9 +12,7 @@ An exploration of Android development.
 
 ## Initialization
 
-As with Ceruleans, I went with this video series to get started: https://www.youtube.com/watch?v=bu5Y3uZ6LLM
-
-The third video in this series goes through creating a List app. It reminded me of working on my various Software Guild vending machines, so I've decided to port my OOP and REST vending machine to android!🎉
+I've decided to port my OOP and REST vending machine to android!🎉
 
 ![alt text](https://github.com/umbrafox/Tanuki/blob/master/app/src/main/res/drawable/peach.png "Logo Title Text 1")![alt text](https://github.com/umbrafox/Tanuki/blob/master/app/src/main/res/drawable/pear.png "Logo Title Text 1")![alt text](https://github.com/umbrafox/Tanuki/blob/master/app/src/main/res/drawable/cherry.png "Logo Title Text 1")
 ![alt text](https://github.com/umbrafox/Tanuki/blob/master/app/src/main/res/drawable/orange.png "Logo Title Text 1")
